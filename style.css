@@ -1,0 +1,36 @@
+h1{
+  font-weight: bold;
+  color: green;
+}
+
+h2{
+  color: blue;
+}
+
+h3{
+  color: orange;
+}
+
+span{
+  font-weight: bold;
+}
+
+table, th, td{
+
+  border: 2px solid white;
+  border-collapse: collapse;
+}
+
+th, td{
+  /*color: #FFFFFF;*/
+  background-color: #9DECF7;
+}
+
+td{
+  color: #FFFFFF;
+}
+
+.center{
+  text-align: center;
+  margin: auto;
+}
