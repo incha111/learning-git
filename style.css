@@ -16,21 +16,18 @@ span{
 }
 
 table, th, td{
-
-  border: 2px solid white;
+  color: white;
+  border: 1px solid white;
   border-collapse: collapse;
 }
 
-th, td{
-  /*color: #FFFFFF;*/
-  background-color: #9DECF7;
-}
-
-td{
-  color: #FFFFFF;
+th,td{
+  font-size: 24px;
+  background-color: #a8fcfb;
 }
 
 .center{
   text-align: center;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
