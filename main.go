@@ -6,4 +6,6 @@ func showInfo() {}
 
 func showSource() {}
 
+func showDestination() {}
+
 func calculateDistance() {}
