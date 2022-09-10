@@ -10,4 +10,6 @@ func showDestination() {}
 
 func calculateDistance() {}
 
+func calculateWeight() {}
+
 func calculateAge() {}
