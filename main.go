@@ -9,3 +9,5 @@ func showSource() {}
 func showDestination() {}
 
 func calculateDistance() {}
+
+func calculateWeight() {}
